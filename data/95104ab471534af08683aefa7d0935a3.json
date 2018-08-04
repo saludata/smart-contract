@@ -1,0 +1,8 @@
+{ "sub": "2", 
+  "RolUnico": 
+    { "numero": 55555555, "DV": "5", "tipo": "RUN" }, 
+    "name": 
+      { "nombres": ['Maria', 'Carmen', 'De', 'Los', 'Angeles'], 
+        "apellidos": ['Del', ' Rio', 'Gonzalez'] 
+        } 
+      }
